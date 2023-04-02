@@ -5,7 +5,7 @@
     </head>
     <body>
         <center>
-            <form action="<?= base_url("matakuliah/cetak"); ?>" method="post">
+            <form action="<?= base_url('matakuliah/cetak'); ?>" method="post">
                 <table>
                     <tr>
                         <th colspan="3">Form Input Data Mata Kuliah</th>
@@ -34,7 +34,7 @@
                         </select></td>
                     </tr>
                     <tr>
-                        <td colspan="3" align="center"><input type="submit" value="Submit" /></td>
+                        <td colspan="3" align="center"><button type="submit">Submit</button></td>
                     </tr>
                 </table>
             </form>

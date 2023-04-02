@@ -15,7 +15,7 @@
                 'sks' => $this->input->post('sks')
             ];
 
-            $this->load->view('view-datamatakuliah', $data);
+            $this->load->view('data-matakuliah', $data);
         }
     }
 ?>
