@@ -1,3 +1,3 @@
-# Aplikasi Perpustakaan Online
+# Pertemuan 3 CodeIgniter
 
-Menggunakan Codeigniter 3
+Praktik menggunakan view dan controller
